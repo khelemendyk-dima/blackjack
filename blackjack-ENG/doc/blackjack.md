@@ -23,7 +23,7 @@ Demonstration of the found results involves the execution of the program in the 
 
 With the help of the *class* keyword, I describe a card that reflects the rank and suit of the card. A class has been developed, the content of which is given below. The card has two enumeration: rank and suit. As well as available methods: constructor, destructor, getting the value of the card, flipping the card and overloading the output operator.
 
-![Fields of the Card class](assets/card-fields.png)
+![Fields of the Card class](https://github.com/khelemendyk-dima/blackjack/raw/main/blackjack-ENG/doc/assets/card-fields.png)
 
 Also I describe a hand that holds cards and has the following methods: constructor, destructor, adding a card to the hand, clearing the hand of cards, getting the sum of cards points in the player's hand.
 
